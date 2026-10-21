@@ -1,0 +1,6 @@
+# biztos hiba
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # SIKERTELEN primary
+TORPEDO,SINGLE  # Sikeres Secondary
+TORPEDO,SINGLE  # SIKERTELEN primary
+TORPEDO,SINGLE  # Sikeres Secondary

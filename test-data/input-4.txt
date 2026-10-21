@@ -1,0 +1,4 @@
+# üres tároló miatti "fallback"
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # Sikeres primary
+TORPEDO,SINGLE  # Sikeres fallback primary
