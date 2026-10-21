@@ -1,0 +1,4 @@
+# átvált másodlagos tárolóra
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # Sikeres primary
+TORPEDO,SINGLE  # Sikeres Secondary
